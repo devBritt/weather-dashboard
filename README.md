@@ -1,4 +1,4 @@
-# Weather Dashboard
+# Elemental.io Weather Dashboard
 
 A weather dashboard that can be used to view the weather in any location. It uses the OpenWeather One Call API to retrieve weather data.
 
