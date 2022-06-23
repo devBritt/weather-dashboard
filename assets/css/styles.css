@@ -1,0 +1,23 @@
+/* variables */
+
+/* global styles */
+* {
+    font-family: "Barlow", sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+}
+h1 {
+    font-weight: 800;
+    font-size: 2rem;
+    text-align: center;
+}
+h2 {
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+p {
+    font-weight: 300;
+    font-size: 1.3rem;
+}
+
+/* MEDIA QUERIES */
